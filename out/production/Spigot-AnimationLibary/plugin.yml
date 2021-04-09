@@ -1,0 +1,7 @@
+name: AnimationLibary
+author: Lantius
+main: io.github.animationlib.AnimationLibary
+description: Tiny Libary to play Animations on Players or EntityPlayers
+version: 0.1ALPHA
+commands:
+  anim:
