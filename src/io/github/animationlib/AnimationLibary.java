@@ -1,5 +1,6 @@
 package io.github.animationlib;
 
+import io.github.animationlib.api.AnimatedHolograms;
 import io.github.animationlib.api.PlayerAnimations;
 import io.github.animationlib.utils.ReflectionHelper;
 import org.bukkit.plugin.java.JavaPlugin;
